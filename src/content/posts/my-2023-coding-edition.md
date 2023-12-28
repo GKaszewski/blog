@@ -5,8 +5,6 @@ pubDate: "Dec 28 2023"
 category: "Life"
 ---
 
-# My 2023 Coding Edition
-
 ## Introduction
 
 Hi! Back in February I wrote a post about my 2023 goals. The roadmap for 2023 [can be found here](https://blog.gabrielkaszewski.dev/posts/roadmap-for-2023/).
