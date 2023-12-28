@@ -1,3 +1,10 @@
+---
+title: "My 2023 Coding Edition"
+description: ""
+pubDate: "Dec 28 2023"
+category: "Life"
+---
+
 # My 2023 Coding Edition
 
 ## Introduction
